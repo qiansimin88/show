@@ -1,4 +1,4 @@
 (function () {
 alert(1)
-alert(20)
+alert(99)
 })();
